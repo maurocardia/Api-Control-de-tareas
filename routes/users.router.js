@@ -1,5 +1,5 @@
 const express = require('express');
-const { body, validationResult } = require('express-validator');
+/*const { body, validationResult } = require('express-validator');
 
 const {
     getAllUsers,
@@ -10,7 +10,7 @@ const {
 const { userExists } = require('../middlewares/users.middlewares');
 const {
     createUserValidators,
-} = require('../middlewares/validators.middleware');
+} = require('../middlewares/validators.middleware');*/
 
 const usersRouter = express.Router();
 

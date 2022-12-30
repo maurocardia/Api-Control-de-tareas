@@ -9,4 +9,4 @@ const initModels = () => {
     User.belongsTo(User);
 };
 
-module.exports = { initModels };
+module.exports = { initModels };    

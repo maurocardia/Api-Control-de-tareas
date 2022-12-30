@@ -1,4 +1,4 @@
-const { Task } = require('../models/task.model');
+/*const { Task } = require('../models/task.model');
 const { User } = require('../models/user.model');
 
 const getAllTasks = async (req, res) => {
@@ -104,3 +104,4 @@ module.exports = {
     updateTask,
     deleteTask,
 };
+*/
